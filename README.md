@@ -200,17 +200,13 @@ Full Path Disclosure refers to being able to see the full path of something host
 
 Hackerone Reports :
 
-- [https://hackerone.com/reports/26825](https://hackerone.com/reports/26825)  
-    [https://hackerone.com/reports/210572](https://hackerone.com/reports/210572)
-    
-- [https://hackerone.com/reports/159481](https://hackerone.com/reports/159481)  
-    [https://hackerone.com/reports/87505](https://hackerone.com/reports/87505)
-    
+- [https://hackerone.com/reports/26825](https://hackerone.com/reports/26825)
+- [https://hackerone.com/reports/210572](https://hackerone.com/reports/210572)  
+- [https://hackerone.com/reports/159481](https://hackerone.com/reports/159481)
+- [https://hackerone.com/reports/87505](https://hackerone.com/reports/87505)  
 - [https://hackerone.com/reports/230098](https://hackerone.com/reports/230098)
     
-
 Source : [https://www.owasp.org/index.php/Full\_Path\_Disclosure](https://www.owasp.org/index.php/Full_Path_Disclosure)
-
 Source : [https://support.detectify.com/customer/en/portal/articles/2243201-full-path-disclosure](https://support.detectify.com/customer/en/portal/articles/2243201-full-path-disclosure)
 
 ### Descriptive Stack Trace
@@ -225,7 +221,6 @@ Hackerone Reports :
 - [https://hackerone.com/reports/221833](https://hackerone.com/reports/221833)
 
 Source : [https://medium.com/@jgefroh/the-dreaded-stack-trace-2692c053b28e](https://medium.com/@jgefroh/the-dreaded-stack-trace-2692c053b28e)
-
 Source : [https://www.owasp.org/index.php/Testing\_for\_Stack\_Traces\_(OTG-ERR-002)](https://www.owasp.org/index.php/Testing_for_Stack_Traces_%28OTG-ERR-002%29 "https://www.owasp.org/index.php/Testing_for_Stack_Traces_(OTG-ERR-002)")
 
 ## Token Leakage via Referer
@@ -242,7 +237,6 @@ Hackerone Reports :
 - [https://hackerone.com/reports/265740](https://hackerone.com/reports/265740)
 
 Source : [https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links](https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links)
-
 Source : [https://portswigger.net/kb/issues/00500400_cross-domain-referer-leakage](https://portswigger.net/kb/issues/00500400_cross-domain-referer-leakage)
 
 ### Sensitive Token in URL
@@ -250,7 +244,6 @@ Source : [https://portswigger.net/kb/issues/00500400_cross-domain-referer-leakag
 Information exposure through query strings in URL is when sensitive data is passed to parameters in the URL. This allows attackers to obtain sensitive data such as usernames, passwords, tokens (authX), database details, and any other potentially sensitive data.
 
 Source : [https://portswigger.net/kb/issues/00500700_session-token-in-url](https://portswigger.net/kb/issues/00500700_session-token-in-url)
-
 Source : [https://www.owasp.org/index.php/Information\_exposure\_through\_query\_strings\_in\_url](https://www.owasp.org/index.php/Information_exposure_through_query_strings_in_url)
 
 Hackerone Reports :
@@ -357,9 +350,6 @@ Hackerone Reports :
 - [https://hackerone.com/reports/138270](https://hackerone.com/reports/138270)
 
 Source : [https://www.scip.ch/en/?labs.20160414](https://www.scip.ch/en/?labs.20160414)
-
-The Hacktivists  
-9
 
 # Insufficient Security Configurability - Essential Guideline
 
