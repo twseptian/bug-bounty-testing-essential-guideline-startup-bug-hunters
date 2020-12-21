@@ -244,6 +244,7 @@ Source : [https://portswigger.net/kb/issues/00500400_cross-domain-referer-leakag
 Information exposure through query strings in URL is when sensitive data is passed to parameters in the URL. This allows attackers to obtain sensitive data such as usernames, passwords, tokens (authX), database details, and any other potentially sensitive data.
 
 Source : [https://portswigger.net/kb/issues/00500700_session-token-in-url](https://portswigger.net/kb/issues/00500700_session-token-in-url)
+
 Source : [https://www.owasp.org/index.php/Information\_exposure\_through\_query\_strings\_in\_url](https://www.owasp.org/index.php/Information_exposure_through_query_strings_in_url)
 
 Hackerone Reports :
